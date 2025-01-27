@@ -11,6 +11,18 @@
 		D78E36902D46D8F30044C890 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E368F2D46D8F30044C890 /* ContentView.swift */; };
 		D78E36922D46D8F50044C890 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D78E36912D46D8F50044C890 /* Assets.xcassets */; };
 		D78E36952D46D8F50044C890 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D78E36942D46D8F50044C890 /* Preview Assets.xcassets */; };
+		D78E36E02D470E0E0044C890 /* WordleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36D12D470E0E0044C890 /* WordleModel.swift */; };
+		D78E36E12D470E0E0044C890 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D78E36D32D470E0E0044C890 /* Preview Assets.xcassets */; };
+		D78E36E22D470E0E0044C890 /* WordAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36D52D470E0E0044C890 /* WordAPI.swift */; };
+		D78E36E32D470E0E0044C890 /* ThemeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36D72D470E0E0044C890 /* ThemeManager.swift */; };
+		D78E36E42D470E0E0044C890 /* KeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36D92D470E0E0044C890 /* KeyboardView.swift */; };
+		D78E36E52D470E0E0044C890 /* LetterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36DA2D470E0E0044C890 /* LetterCell.swift */; };
+		D78E36E62D470E0E0044C890 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D78E36DC2D470E0E0044C890 /* Assets.xcassets */; };
+		D78E36E72D470E0E0044C890 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36DD2D470E0E0044C890 /* ContentView.swift */; };
+		D78E36E82D470E0E0044C890 /* pixel_wordleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36DE2D470E0E0044C890 /* pixel_wordleApp.swift */; };
+		D78E36EA2D4711200044C890 /* PokemonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36E92D4711200044C890 /* PokemonViewModel.swift */; };
+		D78E36EC2D4711520044C890 /* PokemonAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36EB2D4711520044C890 /* PokemonAPI.swift */; };
+		D78E36F02D4718BA0044C890 /* ScanlineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E36EF2D4718BA0044C890 /* ScanlineView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		D78E368F2D46D8F30044C890 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D78E36912D46D8F50044C890 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D78E36942D46D8F50044C890 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D78E36D12D470E0E0044C890 /* WordleModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordleModel.swift; sourceTree = "<group>"; };
+		D78E36D32D470E0E0044C890 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D78E36D52D470E0E0044C890 /* WordAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordAPI.swift; sourceTree = "<group>"; };
+		D78E36D72D470E0E0044C890 /* ThemeManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeManager.swift; sourceTree = "<group>"; };
+		D78E36D92D470E0E0044C890 /* KeyboardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardView.swift; sourceTree = "<group>"; };
+		D78E36DA2D470E0E0044C890 /* LetterCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LetterCell.swift; sourceTree = "<group>"; };
+		D78E36DC2D470E0E0044C890 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D78E36DD2D470E0E0044C890 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D78E36DE2D470E0E0044C890 /* pixel_wordleApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pixel_wordleApp.swift; sourceTree = "<group>"; };
+		D78E36E92D4711200044C890 /* PokemonViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonViewModel.swift; sourceTree = "<group>"; };
+		D78E36EB2D4711520044C890 /* PokemonAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonAPI.swift; sourceTree = "<group>"; };
+		D78E36EF2D4718BA0044C890 /* ScanlineView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScanlineView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +75,7 @@
 		D78E368C2D46D8F30044C890 /* pixel-wordle */ = {
 			isa = PBXGroup;
 			children = (
+				D78E36DF2D470E0E0044C890 /* pixel-wordle */,
 				D78E368D2D46D8F30044C890 /* pixel_wordleApp.swift */,
 				D78E368F2D46D8F30044C890 /* ContentView.swift */,
 				D78E36912D46D8F50044C890 /* Assets.xcassets */,
@@ -65,6 +90,65 @@
 				D78E36942D46D8F50044C890 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D78E36D22D470E0E0044C890 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D78E36E92D4711200044C890 /* PokemonViewModel.swift */,
+				D78E36D12D470E0E0044C890 /* WordleModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D78E36D42D470E0E0044C890 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D78E36D32D470E0E0044C890 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D78E36D62D470E0E0044C890 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				D78E36EB2D4711520044C890 /* PokemonAPI.swift */,
+				D78E36D52D470E0E0044C890 /* WordAPI.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		D78E36D82D470E0E0044C890 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				D78E36D72D470E0E0044C890 /* ThemeManager.swift */,
+			);
+			path = Theme;
+			sourceTree = "<group>";
+		};
+		D78E36DB2D470E0E0044C890 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D78E36EF2D4718BA0044C890 /* ScanlineView.swift */,
+				D78E36D92D470E0E0044C890 /* KeyboardView.swift */,
+				D78E36DA2D470E0E0044C890 /* LetterCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D78E36DF2D470E0E0044C890 /* pixel-wordle */ = {
+			isa = PBXGroup;
+			children = (
+				D78E36D22D470E0E0044C890 /* Models */,
+				D78E36D42D470E0E0044C890 /* Preview Content */,
+				D78E36D62D470E0E0044C890 /* Services */,
+				D78E36D82D470E0E0044C890 /* Theme */,
+				D78E36DB2D470E0E0044C890 /* Views */,
+				D78E36DC2D470E0E0044C890 /* Assets.xcassets */,
+				D78E36DD2D470E0E0044C890 /* ContentView.swift */,
+				D78E36DE2D470E0E0044C890 /* pixel_wordleApp.swift */,
+			);
+			name = "pixel-wordle";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +210,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D78E36952D46D8F50044C890 /* Preview Assets.xcassets in Resources */,
+				D78E36E12D470E0E0044C890 /* Preview Assets.xcassets in Resources */,
+				D78E36E62D470E0E0044C890 /* Assets.xcassets in Resources */,
 				D78E36922D46D8F50044C890 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +223,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D78E36E82D470E0E0044C890 /* pixel_wordleApp.swift in Sources */,
+				D78E36E52D470E0E0044C890 /* LetterCell.swift in Sources */,
+				D78E36EC2D4711520044C890 /* PokemonAPI.swift in Sources */,
+				D78E36F02D4718BA0044C890 /* ScanlineView.swift in Sources */,
 				D78E36902D46D8F30044C890 /* ContentView.swift in Sources */,
+				D78E36E72D470E0E0044C890 /* ContentView.swift in Sources */,
 				D78E368E2D46D8F30044C890 /* pixel_wordleApp.swift in Sources */,
+				D78E36E32D470E0E0044C890 /* ThemeManager.swift in Sources */,
+				D78E36EA2D4711200044C890 /* PokemonViewModel.swift in Sources */,
+				D78E36E42D470E0E0044C890 /* KeyboardView.swift in Sources */,
+				D78E36E22D470E0E0044C890 /* WordAPI.swift in Sources */,
+				D78E36E02D470E0E0044C890 /* WordleModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +371,8 @@
 				DEVELOPMENT_TEAM = 252FGXX432;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = PxWordle;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.arcade-games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +402,8 @@
 				DEVELOPMENT_TEAM = 252FGXX432;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = PxWordle;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.arcade-games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
