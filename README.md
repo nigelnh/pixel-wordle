@@ -1,5 +1,7 @@
 # Pixel Wordle
 
+<img width="65" alt="Screenshot 2025-01-26 at 9 53 59 PM" src="https://github.com/user-attachments/assets/27ad089c-a14f-4383-8e48-38ae013f81d2" />
+
 A pixel-art-styled Wordle clone with Pokémon hints! Built with SwiftUI for iOS.
 
 ## Features
@@ -11,7 +13,6 @@ A pixel-art-styled Wordle clone with Pokémon hints! Built with SwiftUI for iOS.
 - ⌨️ Custom keyboard with animations
 
 ## Screenshots
-<img width="65" alt="Screenshot 2025-01-26 at 9 53 59 PM" src="https://github.com/user-attachments/assets/27ad089c-a14f-4383-8e48-38ae013f81d2" />
 
 <img width="346" alt="Screenshot 2025-01-26 at 10 09 34 PM" src="https://github.com/user-attachments/assets/083278b3-f290-47aa-b10a-07aaf1117245" />
 
