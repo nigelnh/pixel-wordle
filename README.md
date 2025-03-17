@@ -2,16 +2,16 @@
 
 <img width="65" alt="Screenshot 2025-01-26 at 9 53 59 PM" src="https://github.com/user-attachments/assets/27ad089c-a14f-4383-8e48-38ae013f81d2" />
 
-A pixel-art-styled Wordle clone with Pokémon hints! Built with SwiftUI for iOS.
+A pixel-art-styled Wordle clone with Pokémon hints. Built with SwiftUI.
 
 ## Features
 
-- 🎮 Classic Wordle gameplay with a retro pixel aesthetic
-- 🎯 Score tracking with persistent high scores
-- 🎨 Dark/Light theme support
-- 🔄 Random Pokémon selection for each game
-- 🔍 Pokémon-powered hint system
-- ⌨️ Custom keyboard with animations
+- Classic Wordle gameplay with a retro pixel aesthetic
+- Score tracking with persistent high scores
+- Dark/Light theme support
+- Random Pokémon selection for each game
+- Pokémon-powered hint system
+- Custom keyboard with animations
 
 ## Screenshots
 
