@@ -30,12 +30,6 @@ A pixel-art-styled Wordle clone with Pokémon hints. Built with SwiftUI.
 - Random Word API: `random-word-api.herokuapp.com`
 - PokéAPI: `pokeapi.co`
 
-## Requirements
-
-- iOS 15.0+
-- Xcode 13.0+
-- Swift 5.5+
-
 ## Installation
 
 1. Clone the repository
